@@ -1,0 +1,20 @@
+---
+title: "Decoding multilevel relationships with the human tissue-cell-molecule network"
+date: 2022-01-01 00:01:00 -0500
+selected: true
+pub: "Briefings in Bioinformatics"
+pub_date: "2022"
+abstract: >-
+  A systems-level study that models multilevel relationships across tissues, cell types, and molecules in the human body.
+cover: /assets/images/covers/glim.jpeg
+authors:
+  - S Hou*
+  - P Zhang*
+  - K Yang*
+  - L Wang
+  - C Ma
+  - Y Li
+  - S Li
+links:
+  Briefings in Bioinformatics: "https://doi.org/10.1093/bib/bbac170"
+---

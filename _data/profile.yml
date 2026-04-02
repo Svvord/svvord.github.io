@@ -1,0 +1,80 @@
+primary_name: "Siyu Hou"
+secondary_name: ""
+navbar_name: "Siyu Hou"
+
+positions:
+- name: Postdoctoral Associate
+- name: Yale University
+
+
+email: "siyu.hou@yale.edu"
+# cv_link: /assets/files/cv.pdf
+gscholar: V3beEYYAAAAJ
+github: Svvord
+# twitter: your_twitter_id  # Do not include the '@' symbol
+# wechat_qrcode: /assets/images/etc/wechat.jpg
+# wechat_prompt: >-
+#   Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
+# linkedin: your-linked-in-id
+# orcid: 0000-0000-0000-0000
+
+short_bio_text_justify: false
+short_bio: >-
+  <p>
+    I am currently a Postdoctoral Associate at Yale University, working with
+    <a href="https://xiangzhou.github.io/" target="_blank">Prof. Xiang Zhou</a>.
+    My research focuses on advancing the computational analysis of single-cell and spatial transcriptomics
+    using artificial intelligence, particularly large language models and foundation models.
+  </p>
+  <p>
+    I am interested in developing multimodal representation learning methods and scalable AI frameworks
+    that integrate single-cell transcriptomics, spatial transcriptomics, histology images, and other
+    heterogeneous biological data sources to better characterize cellular heterogeneity and tissue spatial architecture.
+  </p>
+  <p>
+    More broadly, I explore the potential of foundation models and intelligent AI systems in biomedical research,
+    with the goal of enabling new computational paradigms for mechanistic studies of complex diseases such as cancer
+    and for precision medicine.
+  </p>
+  <p>
+    I received my Ph.D. in Bioinformatics from Tsinghua University, where I was advised by
+    Academician <a href="https://www.tsinghua.edu.cn/info/1167/93841.htm" target="_blank">Yanda Li</a>
+    and Professor <a href="https://www.au.tsinghua.edu.cn/info/1078/3172.htm" target="_blank">Shao Li</a>.
+  </p>
+
+portrait_url: /assets/images/photos/portrait.jpg
+portrait_caption: >-
+  Public profile photo from Yale Statistics and Data Science.
+
+education:
+- name: Yale University
+  logo: /assets/images/badges/yale.svg
+  position: >-
+    Postdoctoral Associate <br/>
+    Department of Statistics and Data Science
+  date: Oct. 2025 - present
+- name: University of Michigan
+  logo: /assets/images/badges/michigan.svg
+  position: >-
+    Postdoctoral Research Fellow <br/>
+    Department of Biostatistics
+  date: Aug. 2023 - Sep. 2025
+- name: Tsinghua University
+  logo: /assets/images/badges/tsinghua.svg
+  position: >-
+    Ph.D. in Bioinformatics <br/>
+    Department of Automation
+  date: Sep. 2017 - Apr. 2023
+- name: Jilin University
+  logo: /assets/images/badges/jilin.png
+  position: >-
+    B.S. in Engineering
+  date: Sep. 2013 - Aug. 2017
+
+awards:
+- name: Outstanding Student Award
+  date: 2023, 2016, 2015
+- name: Academic Scholarships
+  date: 2014 - 2022
+- name: National Award of College Student Innovation and Entrepreneurship Competition
+  date: 2016
