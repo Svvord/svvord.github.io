@@ -1,6 +1,6 @@
 ---
 title: "Decoding multilevel relationships with the human tissue-cell-molecule network"
-date: 2022-01-01 00:01:00 -0500
+date: 2022-05-13 00:00:00 -0500
 selected: true
 pub: "Briefings in Bioinformatics"
 pub_date: "2022"
@@ -16,5 +16,6 @@ authors:
   - Y Li
   - S Li
 links:
-  Briefings in Bioinformatics: "https://doi.org/10.1093/bib/bbac170"
+  Full text: "https://doi.org/10.1093/bib/bbac170"
+  GitHub: "https://github.com/Svvord/GLIM"
 ---

@@ -18,4 +18,8 @@ authors:
   - Y Zheng
   - G Su
   - T Xu
+  - K Hu
+  - R Huang
+links:
+  Full text: "https://doi.org/10.1016/j.isci.2026.114644"
 ---

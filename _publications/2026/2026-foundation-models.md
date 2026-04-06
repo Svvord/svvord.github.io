@@ -15,6 +15,6 @@ authors:
   - JX Wang
   - X Zhou
 links:
-  PubMed: "https://pubmed.ncbi.nlm.nih.gov/41542465/"
-  Google Scholar: "https://scholar.google.com/citations?user=V3beEYYAAAAJ&hl=en"
+  Full text: "https://pubmed.ncbi.nlm.nih.gov/41542465/"
+  GitHub: "https://github.com/Svvord/scFM-eval"
 ---

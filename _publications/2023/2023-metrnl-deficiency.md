@@ -1,6 +1,6 @@
 ---
 title: "Metrnl Deficiency Destabilized the Atherosclerotic Plaque and Increased the Risk of Acute Coronary Syndrome"
-date: 2023-11-01 00:01:00 -0500
+date: 2023-11-06 00:01:00 -0500
 selected: false
 pub: "Circulation"
 pub_date: "2023"
@@ -11,4 +11,6 @@ authors:
   - R Huang
   - F Lai
   - S Hou
+links:
+  Full text: "https://doi.org/10.1161/circ.148.suppl_1.12316"
 ---

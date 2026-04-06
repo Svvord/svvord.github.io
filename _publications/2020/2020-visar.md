@@ -6,11 +6,14 @@ pub: "Bioinformatics"
 pub_date: "2020"
 abstract: >-
   An interactive analysis tool for interpreting chemical features captured by deep neural network QSAR models.
-cover: /assets/images/covers/cover2.jpg
+cover: /assets/images/covers/visar.webp
 authors:
   - Q Ding
   - S Hou
   - S Zu
   - Y Zhang
   - S Li
+links:
+  Full text: "https://doi.org/10.1093/bioinformatics/btaa187"
+  GitHub: "https://github.com/Svvord/visar"
 ---

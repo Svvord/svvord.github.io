@@ -18,5 +18,5 @@ authors:
   - S Hou
   - et al.
 links:
-  PNAS: "https://doi.org/10.1073/pnas.2322563121"
+  Full text: "https://doi.org/10.1073/pnas.2322563121"
 ---
