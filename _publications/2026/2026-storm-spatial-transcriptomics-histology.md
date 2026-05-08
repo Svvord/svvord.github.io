@@ -7,29 +7,16 @@ pub: ""
 pub_date: "2026"
 abstract: >-
   STORM is a multimodal foundation model that integrates spatial transcriptomics and histology for biological discovery, spatial gene expression prediction, and clinical outcome modeling.
+cover: /assets/images/covers/storm.webp
 authors:
-  - J Xiang
-  - S Hou
-  - Y Li
-  - R Quinton
-  - X Zhang
-  - F Eweje
-  - X Luo
-  - Y Chen
-  - Z Li
-  - C Bergstrom
-  - T Kim
-  - S Willens
-  - FM Olguin
-  - M Abikenari
-  - A Heider
-  - S Rajaram
-  - J Neal
+  - J Xiang*
+  - S Hou*
+  - Y Li*
+  - ...
   - M Diehn
-  - X Zhou
-  - R Li
+  - X Zhou#
+  - R Li#
 links:
-  arXiv: "https://arxiv.org/abs/2604.03630"
-  PDF: "https://arxiv.org/pdf/2604.03630"
-  DOI: "https://doi.org/10.48550/arXiv.2604.03630"
+  Full text: "https://arxiv.org/abs/2604.03630"
+  Website: "https://storm-web-demo.vercel.app/"
 ---
