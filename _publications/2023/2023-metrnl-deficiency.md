@@ -6,7 +6,7 @@ pub: "Circulation"
 pub_date: "2023"
 abstract: >-
   A conference abstract on the role of Metrnl deficiency in plaque destabilization and acute coronary syndrome risk.
-cover: /assets/images/covers/cover2.jpg
+cover: /assets/images/covers/cover1.jpg
 authors:
   - R Huang
   - F Lai

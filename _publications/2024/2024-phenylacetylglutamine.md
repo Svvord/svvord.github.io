@@ -6,7 +6,7 @@ pub: "Circulation"
 pub_date: "2024"
 abstract: >-
   A conference abstract on phenylacetylglutamine, endothelial senescence, and early-stage atherosclerosis.
-cover: /assets/images/covers/cover3.jpg
+cover: /assets/images/covers/cover1.jpg
 authors:
   - R Huang
   - X Jiang

@@ -52,7 +52,7 @@ education:
   logo: /assets/images/badges/yale.svg
   position: >-
     Postdoctoral Associate <br/>
-    Department of Statistics and Data Science
+    Department of Statistics & Data Science
   date: Oct. 2025 - present
 - name: University of Michigan
   logo: /assets/images/badges/michigan.svg
@@ -63,13 +63,13 @@ education:
 - name: Tsinghua University
   logo: /assets/images/badges/tsinghua.svg
   position: >-
-    Ph.D. in Bioinformatics <br/>
+    Ph.D. in Control Science & Engineering <br/>
     Department of Automation
   date: Sep. 2017 - Apr. 2023
 - name: Jilin University
   logo: /assets/images/badges/jilin.png
   position: >-
-    B.S. in Engineering
+    B.Eng. in Automation
   date: Sep. 2013 - Aug. 2017
 
 awards:
