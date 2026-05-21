@@ -7,7 +7,7 @@ pub: ""
 pub_date: "2026"
 abstract: >-
   A study comparing CalPred and PredInterval for calibrated prediction intervals of polygenic scores, highlighting the importance of phenotype normalization and preprocessing for reliable uncertainty quantification.
-cover: /assets/images/covers/cover1.jpg
+cover: /assets/images/covers/predinterval.webp
 authors:
   - C Xu*
   - S Hou*
